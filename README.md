@@ -1,4 +1,4 @@
-# credit-analysis-reportt-JSW-
+# credit-analysis-report-JSW-
 ### JSW Steel Ltd. – Credit & Financial Statement Analysis (FY24–FY26)
 
 This project involved analysing JSW Steel Ltd. from a lender’s perspective to evaluate its financial performance, creditworthiness, and ability to repay debt. I analysed financial statements and key ratios covering growth, liquidity, solvency, debt service coverage, and market valuation, along with the company’s credit ratings and Altman Z-Score.
